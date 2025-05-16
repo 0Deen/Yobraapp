@@ -10,7 +10,7 @@
 
 In Kenya, the availability of mental health professionals is critically low, with over 0.75 psychiatrists per 100,000 patients, far below the World Health Organization's recommendation of at least 3 psychiatrists per 100,000. This significant gap underscores the need for innovative solutions to address the mental health needs of the population.
 
-## About MoodMap
+## About YobraApp
 
 YobraApp is a pioneering application designed to track and manage depression levels on a daily basis, providing users with awareness and support in their mental health journey. Drawing from my personal experiences with mental health challenges, I created YobraApp to offer a solution that can help individuals navigate their mental health with greater ease and accessibility.
 
