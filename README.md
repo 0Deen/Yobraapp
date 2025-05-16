@@ -38,11 +38,11 @@ By bridging the gap between mental health needs and available resources, YobraAp
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/YobraApp.git
+   git clone https://github.com/0Deen/Yobraapp
    ```
 2. Change the directory
    ```bash
-   cd YobraApp
+   cd Yobraapp
    ```
 3. Copy the environment variables
    ```bash
