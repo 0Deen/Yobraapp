@@ -30,7 +30,7 @@ YobraApp aims to address the shortage of mental health professionals by enabling
 
 ## Conclusion
 
-By bridging the gap between mental health needs and available resources, YobraApp offers a scalable and effective solution to improve mental health care accessibility in Kenya. The integration of personalized feedback and remote monitoring positions MoodMap as a valuable tool in the fight against mental health challenges.
+By bridging the gap between mental health needs and available resources, YobraApp offers a scalable and effective solution to improve mental health care accessibility in Kenya. The integration of personalized feedback and remote monitoring positions YobraApp as a valuable tool in the fight against mental health challenges.
 
 ---
 
