@@ -16,7 +16,7 @@ YobraApp is a pioneering application designed to track and manage depression lev
 
 ## Key Features
 
-1. **Daily Depression Tracking**: Users can assess their depression levels daily using the PHQ-9 test integrated within the app. This helps in monitoring mood patterns and identifying trends over time.
+1. **Daily Depression Tracking**: Users can assess their depression levels daily using the PHQ-9 test integrated within the app. This helps in monitoring mood patterns and identifying trends over time
 
 2. **Personalized Feedback**: YobraApp leverages the advanced capabilities of the Gemini model to provide personalized feedback based on the user's daily assessments, offering tailored advice and support.
 
